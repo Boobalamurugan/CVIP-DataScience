@@ -22,27 +22,27 @@ To run this project, you need the following dependencies installed:
 
 1. You can install these dependencies using `pip`:
 
-```bash
-
+```bash```
 pip install numpy pandas scikit-learn matplotlib seaborn
+
 
 2. Installation : 
 
 Clone this repository to your local machine:
 
-```bash
+```bash```
 
-git clone https://github.com/yourusername/breast-cancer-classification.git
+git clone https://github.com/Boobalamurugan/CVIP-DataScience/Phase_1_Project/breast-cancer-classification.git
 
 3. Navigate to the project directory:
 
-```bash
+```bash```
 
 cd breast-cancer-classification
 
 4. Open the Jupyter Notebook to explore and run the project:
 
-```bash
+```bash```
 
 jupyter notebook breast_cancer_classification.ipynb
 
