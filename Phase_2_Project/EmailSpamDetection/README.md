@@ -28,8 +28,8 @@ To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine:
 
-```bash
-git clone https://github.com/yourusername/EmailSpamDetection.git
+```bash[
+https://github.com/Boobalamurugan/CVIP-DataScience/tree/main/Phase_2_Project/EmailSpamDetection
 ```
 
 2.Install the required Python packages:
