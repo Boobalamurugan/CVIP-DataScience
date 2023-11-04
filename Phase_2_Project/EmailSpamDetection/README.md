@@ -29,7 +29,7 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash[
-https://github.com/Boobalamurugan/CVIP-DataScience/tree/main/Phase_2_Project/EmailSpamDetection
+https://github.com/Boobalamurugan/CVIP-DataScience.git
 ```
 
 2.Install the required Python packages:
