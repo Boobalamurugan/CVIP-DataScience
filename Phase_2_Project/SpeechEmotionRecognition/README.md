@@ -54,7 +54,7 @@ pip install pandas numpy librosa seaborn matplotlib scikit-learn keras
 ## Usage
 * Clone the repository:
 ```bash
-git clone https://github.com/yourusername/speech-emotion-recognition.git
+[git clone https://github.com/yourusername/speech-emotion-recognition.git](https://github.com/Boobalamurugan/CVIP-DataScience.git)
 ```
 * Navigate to the project directory:
 ```bash
